@@ -16,6 +16,7 @@ public abstract class GenericDAO<T> {
 				Persistence.createEntityManagerFactory(banco);
 		entityManager = entityManagerFactory.createEntityManager();
 		
+		
 	}
 
 	public Class<T> getClassePersistente() {

@@ -6,6 +6,7 @@ public class PessoaDAO extends GenericBlogDAO<Pessoa> {
 	
 	public PessoaDAO(){
 		super.setClassePersistente(Pessoa.class);
+		
 	}
 
 }

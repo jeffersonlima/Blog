@@ -6,6 +6,7 @@ public class GenericBlogDAO<T> extends GenericDAO<T> {
 	
 	public GenericBlogDAO(){
 		super.createEntityManager(PERSISTENCE_UNIT);
+		
 	}
 	
 	
