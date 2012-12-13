@@ -29,6 +29,7 @@ public class TestePessoa {
 		endereco.setLogradouro("Avenida Pio XII");
 		endereco.setBairro("Cidade Jardim");
 		endereco.setComplemento("Jefferson Lima");
+		
 		endereco.setCep("74425010");
 		endereco.setCidade("Goiania");
 		endereco.setUf("GO");
