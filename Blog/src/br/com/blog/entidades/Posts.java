@@ -5,6 +5,7 @@ import javax.persistence.OneToOne;
 
 public class Posts {
 	
+	
 	@Column(name="id",nullable=false,unique=true)
 	private Integer id;
 	

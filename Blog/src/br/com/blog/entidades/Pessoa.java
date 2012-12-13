@@ -98,6 +98,7 @@ public class Pessoa implements Serializable{
 		this.telefone = telefone;
 	}
 
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;

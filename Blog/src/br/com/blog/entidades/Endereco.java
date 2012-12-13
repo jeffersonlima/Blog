@@ -9,6 +9,7 @@ import javax.persistence.Id;
 @Entity
 public class Endereco {
 	
+	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="id",nullable=false,unique=true)

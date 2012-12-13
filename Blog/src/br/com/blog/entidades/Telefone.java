@@ -11,6 +11,7 @@ import javax.persistence.Table;
 @Table(name="telefone")
 public class Telefone {
 	
+	
 	    @Id
 	    @GeneratedValue(strategy=GenerationType.IDENTITY)
 	    @Column(name="id",nullable=false,unique=true)

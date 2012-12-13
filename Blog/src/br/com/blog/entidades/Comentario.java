@@ -6,6 +6,7 @@ import javax.persistence.OneToOne;
 
 public class Comentario {
 	
+	
 	@SuppressWarnings("unused")
 	@Column(name="id",nullable=false,unique=true)
 	private Integer id;
