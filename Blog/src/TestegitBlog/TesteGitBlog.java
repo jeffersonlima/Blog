@@ -2,7 +2,7 @@ package TestegitBlog;
 
 public class TesteGitBlog {
 	public static void main(String[] args) {
-		System.out.println("Teste Git Blog");
+		System.out.println("Teste Git Blog dia131212");
 		
 	}
 
