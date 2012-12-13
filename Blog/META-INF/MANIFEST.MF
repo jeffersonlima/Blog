@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Blog
+Bundle-SymbolicName: Blog
+Bundle-Version: 1.0.0.qualifier
+Export-Package: TestegitBlog,
+ br.com.blog.dao,
+ br.com.blog.entidades,
+ br.com.blog.teste
